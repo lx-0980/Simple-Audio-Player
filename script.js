@@ -67,7 +67,7 @@ const songs = [
   { title: "Chhod Diya", artist: "arijit singh", cover: "images/cover12.jpg", src: "songs/chhod-diya.mp3" },
   { title: "Chale Aana", artist: "Amaal Malik and Armaan Malik", cover: "images/cover8.jpg", src: "songs/chale-aana.mp3" },
   { title: "Banjaara", artist: "Mithoon, Mohammed Irfan", cover: "images/cover14.jpg", src: "songs/banjara.mp3" },
-  { title: "KAUN TUJHE", artist: "Amaal Malik and Palak Muchhal", cover: "images/cover15.jpg", src: "songs/Kaun-tujhe-yun.mp3" }
+  { title: "KAUN TUJHE", artist: "Amaal Malik and Palak Muchhal", cover: "images/cover15.jpg", src: "songs/Kaun-tujhe yun.mp3" }
 ];
 
 // Load the first song initially
