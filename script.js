@@ -62,7 +62,12 @@ const songs = [
   { title: "Aaja We Mahiya", artist: "imran khan", cover: "images/cover7.jpg", src: "songs/song7.mp3" },
   { title: "DJ Wale Babu", artist: "Aastha Gill, Neelesh P, and Badshah", cover: "images/cover8.jpg", src: "songs/song8.mp3" },
   { title: "Desi Desi Na Bolya Kar", artist: "Raju Punjabi", cover: "images/cover9.jpg", src: "songs/song9.mp3" },
-  { title: "Daru Badnaam", artist: "Param Singh, Kamal Kahlon", cover: "images/cover10.jpg", src: "songs/song10.mp3" }
+  { title: "Daru Badnaam", artist: "Param Singh, Kamal Kahlon", cover: "images/cover10.jpg", src: "songs/song10.mp3" },
+  { title: "Kabhi Jo Baadal Barse", artist: "Nusrat Fateh Ali Khan", cover: "images/cover11.jpg", src: "kabhi-jo-badal-barse.mp3" },
+  { title: "Chhod Diya", artist: "arijit singh", cover: "images/cover12.jpg", src: "chhod-diya.mp3" },
+  { title: "Chale Aana", artist: "Amaal Malik and Armaan Malik", cover: "images/cover8.jpg", src: "chale-aana.mp3" },
+  { title: "Banjaara", artist: "Mithoon, Mohammed Irfan", cover: "images/cover14.jpg", src: "banjara.mp3" },
+  { title: "KAUN TUJHE", artist: "Amaal Malik and Palak Muchhal", cover: "images/cover15.jpg", src: "Kaun-tujhe yun.mp3" }
 ];
 
 // Load the first song initially
