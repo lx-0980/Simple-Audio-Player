@@ -61,13 +61,24 @@ const songs = [
   { title: "Mere Rashke Qamar", artist: "Nusrat Fateh Ali Khan", cover: "images/cover6.jpg", src: "songs/song6.mp3" },
   { title: "Aaja We Mahiya", artist: "imran khan", cover: "images/cover7.jpg", src: "songs/song7.mp3" },
   { title: "DJ Wale Babu", artist: "Aastha Gill, Neelesh P, and Badshah", cover: "images/cover8.jpg", src: "songs/song8.mp3" },
+  { title: "Aapka Kya Hoga", artist: "Mika Singh, Sajid Khan, and Sunidhi Chauhan", cover: "images/cover16.jpg", src: "songs/aapka-kya-hoga.mp3" },
+  { title: "Galat Baat Hai", artist: "Javed Ali, Neeti Mohan", cover: "images/cover16.jpg", src: "songs/galat-baat-hai.mp3" },
+  { title: "Paisa Paisa", artist: "rdb and celina", cover: "images/cover16.jpg", src: "songs/paisa-paisa.mp3" },
+  { title: "Saree Ke Fall Sa", artist: "Antara Mitra and Nakash Aziz", cover: "images/cover16.jpg", src: "songs/saari-ke-fall-sa.mp3" },
+  { title: "Tinku Jiya", artist: "Javed Ali and Mamta Sharma", cover: "images/cover16.jpg", src: "songs/tinku-jiya.mp3" },
+  { title: "O Meri Zohrajabeen", artist: "Himesh Reshammiya", cover: "images/cover16.jpg", src: "songs/aye-meri-zohrajabeen-.mp3" },
   { title: "Desi Desi Na Bolya Kar", artist: "Raju Punjabi", cover: "images/cover9.jpg", src: "songs/song9.mp3" },
   { title: "Daru Badnaam", artist: "Param Singh, Kamal Kahlon", cover: "images/cover10.jpg", src: "songs/song10.mp3" },
   { title: "Kabhi Jo Baadal Barse", artist: "Nusrat Fateh Ali Khan", cover: "images/cover11.jpg", src: "songs/kabhi-jo-badal-barse.mp3" },
   { title: "Chhod Diya", artist: "arijit singh", cover: "images/cover12.jpg", src: "songs/chhod-diya.mp3" },
   { title: "Chale Aana", artist: "Amaal Malik and Armaan Malik", cover: "images/cover8.jpg", src: "songs/chale-aana.mp3" },
   { title: "Banjaara", artist: "Mithoon, Mohammed Irfan", cover: "images/cover14.jpg", src: "songs/banjara.mp3" },
-  { title: "KAUN TUJHE", artist: "Amaal Malik and Palak Muchhal", cover: "images/cover15.jpg", src: "songs/Kaun-tujhe yun.mp3" }
+  { title: "KAUN TUJHE", artist: "Amaal Malik and Palak Muchhal", cover: "images/cover15.jpg", src: "songs/Kaun-tujhe yun.mp3" },
+  { title: "Sanam Re", artist: "Mithoon, Arijit Singh", cover: "images/cover16.jpg", src: "songs/sanam-re.mp3" },
+  { title: "Dekhte Dekhte", artist: "Batti Gul Meter Chalu", cover: "images/cover16.jpg", src: "songs/Dekhte-Dekhte.mp3" },
+  { title: "Yaara", artist: "Mamta Sharma", cover: "images/cover16.jpg", src: "songs/mai-chahu-tujhe-yaara.mp3" },
+  { title: "Woh Ladki Bahut Yaad Aati", artist: "Alka Yagnik and Kumar Sanu", cover: "images/cover16.jpg", src: "songs/wo-ladki-bahut-yaad-aati-hai.mp3" },
+  { title: "Tu Pyar Hai Kisi Aur Ka", artist: "Anuradha Paudwal and Kumar Sanu", cover: "images/cover16.jpg", src: "songs/tu-pyar-hai-kisi-aur-ka.mp3" }
 ];
 
 // Load the first song initially
