@@ -1,6 +1,6 @@
-# 🎵 Advanced Music Player & Countdown Timer
+# 🎵 simple Music Player & Countdown Timer
 
-This is a simple but powerful web-based **Music Player** combined with a clean **Countdown Timer**.  
+This is a simple web-based **Music Player** combined with a clean **Countdown Timer**.  
 I built it to look modern, feel smooth, and include all the features a casual user might want — dark mode, playlist, audio visualizer, and more.
 
 ---
