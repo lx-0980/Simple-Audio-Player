@@ -4,7 +4,10 @@ This is a simple but powerful web-based **Music Player** combined with a clean *
 I built it to look modern, feel smooth, and include all the features a casual user might want — dark mode, playlist, audio visualizer, and more.
 
 ---
-
+>
+> ### 🌐 [Live Demo](https://lx-0980.github.io/Simple-Audio-Player)
+> 
+---
 ## 🚀 What This Project Can Do
 
 ### 🕒 Countdown Timer  
